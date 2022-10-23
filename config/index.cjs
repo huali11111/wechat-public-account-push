@@ -8,10 +8,10 @@
 const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wx2066dbb1cf9905b5',
+  APP_ID: 'wx4cfe8facbd8d4887',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '6002b8bd57ac9ab43d65310280347f9d',
+  APP_SECRET: '94b891a9f4099bb4877819576ec483cb',
 
   PROVINCE: '浙江',
   CITY: '宁波',
@@ -19,11 +19,11 @@ const USER_CONFIG = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: '宝小天使',
+      name: '小天使',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'ocH0v5lxSSSZPnFjhAjUiKOVbjbQ',
+      id: 'or-Nv5zi6Y8pO9v1BhyuVj042tsc',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '6A9Q5s6LjBZPagOmJorRoK_4AjaUYUoG2D0Mp7JaOJE',
+      useTemplateId: 'Vnxhk8lfvY7JRd_5EpcLlZY6u3NSiFD9p0tZguvB02w',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '10-03',
       festivals: [
@@ -57,7 +57,7 @@ const USER_CONFIG = {
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'ocH0v5vr-5Ny_--g6haT6qCB_mK0',
+      id: 'Vnxhk8lfvY7JRd_5EpcLlZY6u3NSiFD9p0tZguvB02w',
     }
   ],
 
